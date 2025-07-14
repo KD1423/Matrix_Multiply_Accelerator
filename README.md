@@ -32,5 +32,5 @@ This project implements a 4×4 matrix multiplication accelerator using Verilog. 
 
 
 **Author:** Kshitij Dutta  
-www.linkedin.com/in/kshitij-dutta-2726a7259
+www.linkedin.com/in/kshitij-dutta-2726a7259  
 **License:** Open to educational use  
